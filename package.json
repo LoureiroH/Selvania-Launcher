@@ -1,7 +1,7 @@
 {
     "name": "Ultra-Launcher",
     "preductname": "Ultra Launcher",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Launcher Mincraft pour le serveur Selvania",
     "main": "src/app.js",
     "author": {
